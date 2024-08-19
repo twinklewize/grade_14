@@ -1,0 +1,22 @@
+PODS:
+  - ffi_package (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+
+DEPENDENCIES:
+  - ffi_package (from `Flutter/ephemeral/.symlinks/plugins/ffi_package/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+
+EXTERNAL SOURCES:
+  ffi_package:
+    :path: Flutter/ephemeral/.symlinks/plugins/ffi_package/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+
+SPEC CHECKSUMS:
+  ffi_package: 2d6f6695b9d07c5cc4e720165d882a4b78331f00
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.15.2
